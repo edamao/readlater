@@ -1,0 +1,4 @@
+pymongo[srv]
+django
+djongo
+django-environ
